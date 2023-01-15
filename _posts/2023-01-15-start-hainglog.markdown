@@ -16,7 +16,7 @@ categories: 주저리
 
 게으르게 누워서 입에 떡이 들어오길 바라는 나를 보며 반성했다 달라지자 마음먹었다
 
-<span style="font-size:200%;background-color:yellow;color:black">무조건 일주일에 1커밋 하자</sapn>
+<span style="font-size:200%;background-color:yellow;color:black">무조건 일주일에 1커밋 하자</span>
 
 목표를 잡았다
 
@@ -24,4 +24,4 @@ categories: 주저리
 
 오늘부터 시작이다
 
-<apan style="font-size:300%;color:greenyellow">Hello World!!!</span>
+<span style="font-size:300%;color:greenyellow">Hello World!!!</span>
